@@ -1,4 +1,4 @@
-$(function() {
+/*$(function() {
     
     var svgContainer = d3.select(".rack_display")
                         .append("svg")
